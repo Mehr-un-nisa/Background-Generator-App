@@ -1,3 +1,6 @@
-# Background-Generator-App
-Just pick one of the above colors and the background color will change. 
-#Using Html, CSS and javascript 
+# Color Background Generator Application
+### Just pick one of the given colors and the background color will change. 
+### App created using languages:
+### 1. Html 
+### 2. CSS 
+### 3. javascript 
